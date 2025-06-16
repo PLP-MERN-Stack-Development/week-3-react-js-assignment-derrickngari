@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+.light {
+  background-color: #d1d5dc;
+  color: #020618;
+}
+
+.dark {
+  background: linear-gradient(to right, #020618, #1d293d);
+  color: #d1d5dc;
+}
